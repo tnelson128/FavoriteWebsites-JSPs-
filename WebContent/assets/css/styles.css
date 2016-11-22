@@ -1,0 +1,14 @@
+body {
+	background-color:#333F3F;
+	color: #FFF;
+	text-align: center;
+}
+
+li {
+	display: inline;
+}
+
+a { 
+	color: #fff;
+	text-decoration: none;
+}
